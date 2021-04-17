@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Tesla-Home/static/css/main.64e61e6a.chunk.css",
+    "main.js": "/Tesla-Home/static/js/main.5a149f9d.chunk.js",
+    "main.js.map": "/Tesla-Home/static/js/main.5a149f9d.chunk.js.map",
+    "runtime-main.js": "/Tesla-Home/static/js/runtime-main.5b51c0a0.js",
+    "runtime-main.js.map": "/Tesla-Home/static/js/runtime-main.5b51c0a0.js.map",
+    "static/js/2.1c4ba46a.chunk.js": "/Tesla-Home/static/js/2.1c4ba46a.chunk.js",
+    "static/js/2.1c4ba46a.chunk.js.map": "/Tesla-Home/static/js/2.1c4ba46a.chunk.js.map",
+    "static/js/3.c87763f3.chunk.js": "/Tesla-Home/static/js/3.c87763f3.chunk.js",
+    "static/js/3.c87763f3.chunk.js.map": "/Tesla-Home/static/js/3.c87763f3.chunk.js.map",
+    "index.html": "/Tesla-Home/index.html",
+    "static/css/main.64e61e6a.chunk.css.map": "/Tesla-Home/static/css/main.64e61e6a.chunk.css.map",
+    "static/js/2.1c4ba46a.chunk.js.LICENSE.txt": "/Tesla-Home/static/js/2.1c4ba46a.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/Tesla-Home/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.30651f79.jpeg": "/Tesla-Home/static/media/Desktop-Model3.30651f79.jpeg",
+    "static/media/Desktop-ModelS.e3d22a07.jpeg": "/Tesla-Home/static/media/Desktop-ModelS.e3d22a07.jpeg",
+    "static/media/Desktop-ModelX.83417303.jpeg": "/Tesla-Home/static/media/Desktop-ModelX.83417303.jpeg",
+    "static/media/Desktop-ModelY.30acb76a.jpeg": "/Tesla-Home/static/media/Desktop-ModelY.30acb76a.jpeg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpeg": "/Tesla-Home/static/media/Desktop-SolarPanels.d7d441d7.jpeg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpeg": "/Tesla-Home/static/media/Desktop-SolarRoof.9eb2e602.jpeg",
+    "static/media/index.css": "/Tesla-Home/static/media/iCiel-Medium.b23bb62d.ttf",
+    "static/media/teslaLogoSmall.a7b59bc6.svg": "/Tesla-Home/static/media/teslaLogoSmall.a7b59bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b51c0a0.js",
+    "static/js/2.1c4ba46a.chunk.js",
+    "static/css/main.64e61e6a.chunk.css",
+    "static/js/main.5a149f9d.chunk.js"
+  ]
+}
